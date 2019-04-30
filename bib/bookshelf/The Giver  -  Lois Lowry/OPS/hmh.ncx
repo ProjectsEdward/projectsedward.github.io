@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="A58BA47A-6C87-1014-91DC-A7C65403DB1D"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Giver</text>
+  </docTitle>
+  <docAuthor>
+    <text>Lois Lowry</text>
+  </docAuthor>
+  <navMap>
+    <navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="titlepage.xml"/>
+    </navPoint>
+    <navPoint class="toc" id="level1-toc" playOrder="2">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="toc.xml"/>
+    </navPoint>
+    <navPoint class="front" id="level1-front3" playOrder="3">
+      <navLabel>
+        <text>...</text>
+      </navLabel>
+      <content src="front01.xml"/>
+    </navPoint>
+    <navPoint class="front" id="level1-front4" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="front02.xml"/>
+    </navPoint>
+    <navPoint class="front" id="level1-front5" playOrder="5">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="front03.xml"/>
+    </navPoint>
+    <navPoint class="front" id="level1-front6" playOrder="6">
+      <navLabel>
+        <text>Books by Lois Lowry</text>
+      </navLabel>
+      <content src="front04.xml"/>
+    </navPoint>
+    <navPoint class="c01" id="level1-c01" playOrder="7">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="c01.xml"/>
+    </navPoint>
+    <navPoint class="c02" id="level1-c02" playOrder="8">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="c02.xml"/>
+    </navPoint>
+    <navPoint class="c03" id="level1-c03" playOrder="9">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="c03.xml"/>
+    </navPoint>
+    <navPoint class="c04" id="level1-c04" playOrder="10">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="c04.xml"/>
+    </navPoint>
+    <navPoint class="c05" id="level1-c05" playOrder="11">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="c05.xml"/>
+    </navPoint>
+    <navPoint class="c06" id="level1-c06" playOrder="12">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="c06.xml"/>
+    </navPoint>
+    <navPoint class="c07" id="level1-c07" playOrder="13">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="c07.xml"/>
+    </navPoint>
+    <navPoint class="c08" id="level1-c08" playOrder="14">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="c08.xml"/>
+    </navPoint>
+    <navPoint class="c09" id="level1-c09" playOrder="15">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="c09.xml"/>
+    </navPoint>
+    <navPoint class="c10" id="level1-c10" playOrder="16">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="c10.xml"/>
+    </navPoint>
+    <navPoint class="c11" id="level1-c11" playOrder="17">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="c11.xml"/>
+    </navPoint>
+    <navPoint class="c12" id="level1-c12" playOrder="18">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="c12.xml"/>
+    </navPoint>
+    <navPoint class="c13" id="level1-c13" playOrder="19">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="c13.xml"/>
+    </navPoint>
+    <navPoint class="c14" id="level1-c14" playOrder="20">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="c14.xml"/>
+    </navPoint>
+    <navPoint class="c15" id="level1-c15" playOrder="21">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="c15.xml"/>
+    </navPoint>
+    <navPoint class="c16" id="level1-c16" playOrder="22">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="c16.xml"/>
+    </navPoint>
+    <navPoint class="c17" id="level1-c17" playOrder="23">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="c17.xml"/>
+    </navPoint>
+    <navPoint class="c18" id="level1-c18" playOrder="24">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="c18.xml"/>
+    </navPoint>
+    <navPoint class="c19" id="level1-c19" playOrder="25">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="c19.xml"/>
+    </navPoint>
+    <navPoint class="c20" id="level1-c20" playOrder="26">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="c20.xml"/>
+    </navPoint>
+    <navPoint class="c21" id="level1-c21" playOrder="27">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="c21.xml"/>
+    </navPoint>
+    <navPoint class="c22" id="level1-c22" playOrder="28">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="c22.xml"/>
+    </navPoint>
+    <navPoint class="c23" id="level1-c23" playOrder="29">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="c23.xml"/>
+    </navPoint>
+  </navMap>
+</ncx>
