@@ -1,0 +1,83 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="PrimaryID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Giver</dc:title>
+    <dc:identifier id="PrimaryID" opf:scheme="URN">urn:uuid:A58BA47A-6C87-1014-91DC-A7C65403DB1D</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Lowry, Lois" opf:role="aut">Lois Lowry</dc:creator>
+    <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+    <dc:source>http://www.hmhco.com/</dc:source>
+    <dc:rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</dc:rights>
+    <meta content="cover-image" name="cover"/>
+  <description xmlns="http://purl.org/dc/elements/1.1/">&lt;p&gt;Twelve-year-old Jonas lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community.</description>
+</metadata>
+  <manifest>
+    <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="titlepage.xml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.xml" id="toc" media-type="application/xhtml+xml"/>
+    <item href="front01.xml" id="front01" media-type="application/xhtml+xml"/>
+    <item href="front02.xml" id="front02" media-type="application/xhtml+xml"/>
+    <item href="front03.xml" id="front03" media-type="application/xhtml+xml"/>
+    <item href="front04.xml" id="front04" media-type="application/xhtml+xml"/>
+    <item href="c01.xml" id="c01" media-type="application/xhtml+xml"/>
+    <item href="c02.xml" id="c02" media-type="application/xhtml+xml"/>
+    <item href="c03.xml" id="c03" media-type="application/xhtml+xml"/>
+    <item href="c04.xml" id="c04" media-type="application/xhtml+xml"/>
+    <item href="c05.xml" id="c05" media-type="application/xhtml+xml"/>
+    <item href="c06.xml" id="c06" media-type="application/xhtml+xml"/>
+    <item href="c07.xml" id="c07" media-type="application/xhtml+xml"/>
+    <item href="c08.xml" id="c08" media-type="application/xhtml+xml"/>
+    <item href="c09.xml" id="c09" media-type="application/xhtml+xml"/>
+    <item href="c10.xml" id="c10" media-type="application/xhtml+xml"/>
+    <item href="c11.xml" id="c11" media-type="application/xhtml+xml"/>
+    <item href="c12.xml" id="c12" media-type="application/xhtml+xml"/>
+    <item href="c13.xml" id="c13" media-type="application/xhtml+xml"/>
+    <item href="c14.xml" id="c14" media-type="application/xhtml+xml"/>
+    <item href="c15.xml" id="c15" media-type="application/xhtml+xml"/>
+    <item href="c16.xml" id="c16" media-type="application/xhtml+xml"/>
+    <item href="c17.xml" id="c17" media-type="application/xhtml+xml"/>
+    <item href="c18.xml" id="c18" media-type="application/xhtml+xml"/>
+    <item href="c19.xml" id="c19" media-type="application/xhtml+xml"/>
+    <item href="c20.xml" id="c20" media-type="application/xhtml+xml"/>
+    <item href="c21.xml" id="c21" media-type="application/xhtml+xml"/>
+    <item href="c22.xml" id="c22" media-type="application/xhtml+xml"/>
+    <item href="c23.xml" id="c23" media-type="application/xhtml+xml"/>
+    <item href="css/hmh.css" id="css" media-type="text/css"/>
+    <item href="hmh.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" linear="yes"/>
+    <itemref idref="toc" linear="yes"/>
+    <itemref idref="front01" linear="yes"/>
+    <itemref idref="front02" linear="yes"/>
+    <itemref idref="front03" linear="yes"/>
+    <itemref idref="front04" linear="yes"/>
+    <itemref idref="c01" linear="yes"/>
+    <itemref idref="c02" linear="yes"/>
+    <itemref idref="c03" linear="yes"/>
+    <itemref idref="c04" linear="yes"/>
+    <itemref idref="c05" linear="yes"/>
+    <itemref idref="c06" linear="yes"/>
+    <itemref idref="c07" linear="yes"/>
+    <itemref idref="c08" linear="yes"/>
+    <itemref idref="c09" linear="yes"/>
+    <itemref idref="c10" linear="yes"/>
+    <itemref idref="c11" linear="yes"/>
+    <itemref idref="c12" linear="yes"/>
+    <itemref idref="c13" linear="yes"/>
+    <itemref idref="c14" linear="yes"/>
+    <itemref idref="c15" linear="yes"/>
+    <itemref idref="c16" linear="yes"/>
+    <itemref idref="c17" linear="yes"/>
+    <itemref idref="c18" linear="yes"/>
+    <itemref idref="c19" linear="yes"/>
+    <itemref idref="c20" linear="yes"/>
+    <itemref idref="c21" linear="yes"/>
+    <itemref idref="c22" linear="yes"/>
+    <itemref idref="c23" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xml" title="Title Page" type="title-page"/>
+    <reference href="toc.xml" title="Table of Contents" type="toc"/>
+    <reference href="c01.xml" title="1" type="text"/>
+  </guide>
+</package>
