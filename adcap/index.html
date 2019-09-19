@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+
+shouldWebGL = false;
+var chromeVersion = window.navigator.userAgent.match(/Chrome\/(\d+)\./);
+if (chromeVersion && chromeVersion[1]) {
+  if (parseInt(chromeVersion[1], 10) >= 42) {
+	if(window.location.ancestorOrigins[0]) {
+		var facebookOrigin = window.location.ancestorOrigins[0].match(/^(.*?(\bfacebook\b)[^$]*)/);
+        var appendUrl = window.location.search;
+        if(!appendUrl)
+        {
+                appendUrl += "?";
+        }
+        else
+        {
+                appendUrl += "&";
+        }
+        var kongOrigin = window.location.ancestorOrigins[0].match(/^(.*?(\bkong\b)[^$]*)/)
+        if( facebookOrigin && facebookOrigin[2]){
+                appendUrl += "facebook=1";
+        }
+        else if( kongOrigin && kongOrigin[2]){
+                appendUrl += "kongregate=1";
+        }
+	}
+	
+	if(appendUrl){
+		window.location = "/adcap/webgl/game.html" + appendUrl;
+	}
+	else {
+		window.location = "/adcap/webgl/game.html";
+	}
+        
+	
+	shouldWebGL = true;
+  }
+}
+if(!shouldWebGL){
+        window.location = "/adcap/webplayer/webplayer.html";
+}
+</script>
+</body>
+</html>
